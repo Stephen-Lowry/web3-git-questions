@@ -12,13 +12,29 @@ Review 3 different GUI Git clients
 <br>
 
 
-# Current Status
-- Initial stage 2 [2018/06/08-19:25]
+#### Current Status
+- Initial stage 3 **[2018/06/08-21:49]**
 
 <br>
 
 
 # Status Log
+
+**[2018/06/08-21:49]**
+*Initial stage 3*
+
+* Updated
+    - Updated "README.md" 
+        - to reflect new changes
+        - changed some styling in the markdown
+* Created    
+    - Created "question3.html"
+        - Provided initial answer
+        
+<br>
+
+
+
 **[2018/06/08-19:25]**
 *Initial stage 2*
 
