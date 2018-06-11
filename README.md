@@ -16,12 +16,32 @@ Review 3 different GUI Git clients
 
 
 #### Current Status
-- *Mid Stage 1* **[2018/06/11-22:46]**
+- *Mid Stage 2* **[2018/06/11-23:45]**
 
 <br>
 
 
 ### Log
+**[2018/06/11-23:45]**
+*Mid Stage 2*
+
+* Updated
+    - Updated "README.md" 
+        - changed status to "mid stage 2"
+    - Updated "question1.html"
+        - Improved answer and added some consistent styling
+        - fixed an issue where there were no links to the other questions on the page
+    - Updated "question2.html"
+        - Improved answer and added some consistent styling
+        - fixed an issue where there were no links to the other questions on the page          
+    - Updated "question3.html"
+        - Improved answer and added some consistent styling
+        - fixed an issue where the GUI clients being discussed had no external links
+        - fixed an issue where there were no links to the other questions on the page
+       
+<br>
+
+
 
 **[2018/06/11-19:24]**
 *Mid Stage 1*
