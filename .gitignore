@@ -1,0 +1,5 @@
+# Ignore the phpStorm files
+.idea/
+
+# Ignore thumbnails
+*.db

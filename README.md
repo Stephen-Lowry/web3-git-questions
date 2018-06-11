@@ -13,12 +13,26 @@ Review 3 different GUI Git clients
 
 
 #### Current Status
-- Initial stage 3 **[2018/06/08-21:49]**
+- *Initial stage 4* **[2018/06/11-19:24]**
 
 <br>
 
 
 # Status Log
+
+**[2018/06/11-19:24]**
+*Initial stage 4*
+
+* Updated
+    - Updated "README.md" 
+        - to reflect addition of '.gitignore'
+* Created    
+    - Created '.gitignore'
+        - Ignored phpStorm config files stored in ".idea" folder
+        - Ignored Windows thumbnail files which are stored with a '.db' extension   
+       
+<br>
+
 
 **[2018/06/08-21:49]**
 *Initial stage 3*
