@@ -1,5 +1,16 @@
 # Ignore the phpStorm files
 .idea/
 
-# Ignore thumbnails
-*.db
+# Ignore thumbnails & cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Windows shortcuts
+*.lnk
