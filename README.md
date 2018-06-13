@@ -2,6 +2,8 @@
 
 This repository attempts to answer three questions (see below) with a page for each answer.
 
+Link to this repositories [Github pages site](https://github.com/Stephen-Lowry/web3-git-questions)
+
 ### Question 1:
 Argue 2 advantages of Git DVCS over Dropbox
 
