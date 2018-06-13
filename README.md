@@ -15,7 +15,8 @@ Review 3 different GUI Git clients
 
 
 Links:
- - To this repositories [Github pages site](https://github.com/Stephen-Lowry/web3-git-questions)
+ - To this repositories [Github page site](https://github.com/Stephen-Lowry/web3-git-questions)
+ - This projects [gh-pages](https://stephen-lowry.github.io/web3-git-questions/)
  - [About the author](author.md)
  - [Status Logs](Status_Log.md) of the sites development
 
