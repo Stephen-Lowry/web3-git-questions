@@ -1,5 +1,7 @@
 # web3-git-questions
 
+This repository attemps to answer three questions (see below) with a page for each answer.
+
 ### Question 1:
 Argue 2 advantages of Git DVCS over Dropbox
 
