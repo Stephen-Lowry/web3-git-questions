@@ -16,12 +16,23 @@ Review 3 different GUI Git clients
 
 
 #### Current Status
-- *Mid Stage 3* **[2018/06/11-23:45]**
+- *Mid Stage 4 - Alternative* **[2018/06/13-23:45]**
 
 <br>
 
 
 ### Log
+**[2018/06/13-23:45]**
+*Mid Stage 4 - Alternative*
+
+* Updated
+    - Updated "README.md" 
+        - changed status to "mid stage 4 - Alternative"
+    - Updated "question3.html"
+        - Removed the "Git Cola" review and replaced it with "Gitg"          
+       
+<br>
+
 **[2018/06/11-23:45]**
 *Mid Stage 3*
 
