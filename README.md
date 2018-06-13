@@ -1,6 +1,6 @@
 # web3-git-questions
 
-This repository attemps to answer three questions (see below) with a page for each answer.
+This repository attempts to answer three questions (see below) with a page for each answer.
 
 ### Question 1:
 Argue 2 advantages of Git DVCS over Dropbox
@@ -18,12 +18,25 @@ Review 3 different GUI Git clients
 
 
 #### Current Status
-- *Mid Stage 4* **[2018/06/13-19:52]**
+- *Mid Stage 5* **[2018/06/13-21:23]**
 
 <br>
 
 
 ### Log
+**[2018/06/13-21:23]**
+*Mid Stage 5*
+
+* Updated
+    - Updated "README.md" 
+        - Elaborated on the repository
+        - changed status to "mid stage 5"
+    - Updated "question1.html"
+        - Improved the answer
+        - Removed useless information
+       
+<br>
+
 **[2018/06/13-19:52]**
 *Mid Stage 4*
 
