@@ -6,5 +6,5 @@ jekyll theme.
 Each one of the html files attempt to answer a question relating to Git.
 
 Links:
-- [home] (index.md)
-- [about_author] (author.md)
+- [home](index.md)
+- [about_author](author.md)

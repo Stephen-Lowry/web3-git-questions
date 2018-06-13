@@ -3,5 +3,5 @@ A current computer science student (HDip) but I have been tinkering with compute
 (Waaaay back when at this stage!)
 
 Links:
-- [home] (index.md)
-- [about_author] (author.md)
+- [home](index.md)
+- [about_author](author.md)
